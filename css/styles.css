@@ -120,6 +120,11 @@ body {
 .portfolio .text {
   color: var(--secondary-color);
 }
+.team-name {
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.18;
+}
 /* Кнопка */
 .hero .button {
   background-color: var(--accent-color);
